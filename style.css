@@ -5,6 +5,10 @@
 
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 h1 {
     text-align: center;
     font-size: 45px;
@@ -13,4 +17,26 @@ h1 {
 
 h3 {
     text-align: center;
+}
+
+
+div{
+    text-align: center;
+
+}
+
+.header-image {
+    width: 600px;
+}
+
+.header-image img {
+    width: 100%;
+}
+
+
+
+img {
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 500px; 
 }
